@@ -1,3 +1,3 @@
-# Curso React COderHaus - PreEntrega 1
+# Curso React CoderHaus - PreEntrega 1
 
 Armado de menú para sitio e-commerce
